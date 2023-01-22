@@ -258,4 +258,3 @@ PACKAGE-VERSION:         1.4.0
 STATUS:                  Reconcile succeeded
 CONDITIONS:              [{ReconcileSucceeded True  }]
 ```
-
