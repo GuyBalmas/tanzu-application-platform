@@ -177,6 +177,8 @@ tap_gui:
 
 
 ##### 3. Enable keyless support
+- ref: https://docs.vmware.com/en/VMware-Tanzu-Application-Platform/1.4/tap/upgrading.html#upgrade-instructions-for-profilebased-installation-3
+
 In TAP `v1.4`, keyless support is deactivated by default.
 
 To support the keyless authorities in `ClusterImagePolicy`, Policy Controller no longer initializes TUF by default. 
