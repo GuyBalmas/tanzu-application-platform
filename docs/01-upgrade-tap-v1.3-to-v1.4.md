@@ -7,8 +7,8 @@ This user guide implements `Tanzu Application Platform` version upgrade from `v1
 <!-- TOC -->
 * [Upgrade TAP `v1.3` to TAP `v1.4`](#upgrade-tap-v13-to-tap-v14)
   * [Prerequisites:](#prerequisites-)
-        * [1. `Kubernetes` cluster running TAP `v1.3`](#1-kubernetes-cluster-running-tap-v13)
-        * [2. VMware registry credentials](#2-vmware-registry-credentials)
+    * [1. `Kubernetes` cluster running TAP `v1.3`](#1-kubernetes-cluster-running-tap-v13)
+    * [2. VMware registry credentials](#2-vmware-registry-credentials)
   * [Steps:](#steps-)
     * [Step 1 - Copy TAP `v1.4` image to your local image registry](#step-1---copy-tap-v14-image-to-your-local-image-registry)
         * [1. Login to `VMware` image registry](#1-login-to-vmware-image-registry)
