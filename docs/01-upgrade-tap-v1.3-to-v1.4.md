@@ -43,9 +43,12 @@ USEFUL-ERROR-MESSAGE:
 ```
 
 ##### 2. VMware registry credentials
+
 Accessing `VMware`'s image repository requires login to pull TAP v1.4 image bundle.
 Please make sure to have your `<tanzunet_username>` and `<tanzunet_password>` available.
+
 ---
+
 ## Steps:
 ### Step 1 - Copy TAP `v1.4` image to your local image registry
 ##### 1. Login to `VMware` image registry
